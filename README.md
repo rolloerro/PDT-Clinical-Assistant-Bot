@@ -1,11 +1,3 @@
-PDT-Clinical-Assistant-Bot/
-├── bot.py
-├── .env.example
-├── requirements.txt
-├── README.md
-└── docs/   # если будет документация
-PDT Clinical Assistant Bot
-
 PDT Clinical Assistant Bot is an English-language Telegram bot designed to provide educational and clinical information on Photodynamic Therapy (PDT). It offers structured guidance on PDT, photosensitizers, treatment steps, and clinical applications.
 
 Features
